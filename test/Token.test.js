@@ -71,4 +71,3 @@ contract('Token', async function(accounts) {
     })
   })
 })
-})
